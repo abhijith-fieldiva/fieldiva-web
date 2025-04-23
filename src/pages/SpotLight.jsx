@@ -32,7 +32,7 @@ const SpotLight = () => {
   useEffect(() => {
     const isMobile = window.innerWidth < 640; // Tailwind 'sm' breakpoint
     if (isMobile) {
-      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745386073/spot-mobile_1_bv2rtb.mp4");
+      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745388609/spot-mobile_3_nmqel2.mp4");
     } else {
       setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745385680/spot_argdxb.mp4");
     }
