@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@keyframes gradient-border {
+    0% {
+      border-color: #FEC631;
+    }
+    50% {
+      border-color: #fbbf24;
+    }
+    100% {
+      border-color: #FEC631;
+    }
+  }
+  
+  .animate-gradient-border {
+    animation: gradient-border 2s linear infinite;
+  }
+  

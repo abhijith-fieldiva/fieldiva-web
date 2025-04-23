@@ -1,0 +1,35 @@
+.active {
+    color: #FEC631;
+    font-weight: bold;
+  }
+
+  .parallax {
+    /* The image used */
+    /* background-image: url("../public/assets/image/Vector.png"); */
+  
+    /* Set a specific height */
+    min-height: 100vh; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  body {
+    background: #1E1E1E;
+  }
+
+  @font-face {
+    font-family: "gfont";
+    src: url(../public/assets/fonts/variable.ttf);
+  }
+  .gfont {
+    font-family: ultra;
+  }
+
+
+  body {
+    font-family: gfont;
+  }
