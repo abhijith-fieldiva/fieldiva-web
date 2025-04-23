@@ -9,16 +9,19 @@ const industries = [
     title: "Electricity & Water",
     description:
       "Smart Meter Installations, DC & RC, Manual Meter Reading, SMOC Integrations, Debt Recovery Management, Inspections & Power Audits, Calibrations, Troubleshooting",
-    image: "/assets/image/ele.jpg",
+    image:
+      "https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745388232/elec_saslrq.jpg",
   },
   {
     title: "Manufacturing & After Sales Service",
-    description: "Installations, Scheduled & Unscheduled Maintenance Visits",
+    description:
+      "Production Workflows, Stock Inventory, Installations, Scheduled & Unscheduled Maintenance Visits",
     image: "/assets/image/manufacturing.jpg",
   },
   {
     title: "Oil & Gas",
-    description: "Device Inspections, Pipeline Works, Metering Projects, Daily Progress Reports",
+    description:
+      "Device Inspections, Pipeline Works, Metering Projects, Daily Progress Reports",
     image: "/assets/image/oil.jpg",
   },
   {
@@ -28,14 +31,15 @@ const industries = [
     image: "/assets/image/logistics.jpg",
   },
   {
-    title: "After Sales Service",
+    title: "Construction and Infrastructure",
     description:
-      "Construction and Infrastructure Workforce and equipment tracking at construction sites, daily reporting, site audits.",
+      "Workforce and equipment tracking at construction sites, daily reporting, site audits.",
     image: "/assets/image/after-sale.jpg",
   },
   {
     title: "Telecommunications",
-    description: "Asset Management & Maintenance, Infrastructure Installations, Reactive Work Orders",
+    description:
+      "Asset Management & Maintenance, Infrastructure Installations, Reactive Work Orders",
     image: "/assets/image/telecommunications.jpg",
   },
   {
@@ -46,12 +50,14 @@ const industries = [
   },
   {
     title: "Banking",
-    description: "Stock Audits, Land & Property Evaluations, ATM Service & Money Dispense Management",
+    description:
+      "Stock Audits, Land & Property Evaluations, ATM Service & Money Dispense Management",
     image: "/assets/image/atm.jpg",
   },
   {
     title: "Facility Management",
-    description: "Scheduled Visits, Emergency Services, Equipment Tracking",
+    description:
+      "Predictive Maintenance, Scheduled Visits, Emergency Services, Equipment Tracking",
     image: "/assets/image/buildings.jpg",
   },
 ];

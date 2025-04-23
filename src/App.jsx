@@ -20,12 +20,12 @@ function App() {
         />
 
         {/* Open Graph Tags */}
-        <meta property="og:title" content="Fieldiva" />
+        <meta property="og:title" content="Welcome to Fieldiva" />
         <meta
           property="og:description"
           content="A Complete software for automates and optimizes the end-to-end aspects of your field operations."
         />
-        <meta property="og:image" content="https://www.totalmobilesolutions.com.au/wp-content/uploads/2022/12/field-operations-management-head.jpg" />
+        <meta property="og:image" content="https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745385583/utility_pwupql.jpg" />
         <meta property="og:url" content="https://fieldiva.com/" />
         <meta property="og:type" content="website" />
 
@@ -38,7 +38,7 @@ function App() {
         />
         <meta
           name="twitter:image"
-          content="https://www.totalmobilesolutions.com.au/wp-content/uploads/2022/12/field-operations-management-head.jpg"
+          content="https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745385583/utility_pwupql.jpg"
         />
 
         {/* Canonical Tag */}
