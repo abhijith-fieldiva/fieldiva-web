@@ -34,7 +34,7 @@ const SpotLight = () => {
     if (isMobile) {
       setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745388609/spot-mobile_3_nmqel2.mp4");
     } else {
-      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745385680/spot_argdxb.mp4");
+      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745388833/spot_lseilt.mp4");
     }
   }, []);
 
