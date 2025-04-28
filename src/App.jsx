@@ -23,7 +23,7 @@ function App() {
         <meta property="og:title" content="Welcome to Fieldiva" />
         <meta
           property="og:description"
-          content="A Complete software for automates and optimizes the end-to-end aspects of your field operations."
+          content="Fieldiva is an Integrated AI Software Platform that automates and optimizes the end-to-end aspects of your field operations."
         />
         <meta property="og:image" content="https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745385583/utility_pwupql.jpg" />
         <meta property="og:url" content="https://fieldiva.com/" />
@@ -34,7 +34,7 @@ function App() {
         <meta name="twitter:title" content="Fieldiva" />
         <meta
           name="twitter:description"
-          content="A Complete software for automates and optimizes the end-to-end aspects of your field operations."
+          content="Fieldiva is an Integrated AI Software Platform that automates and optimizes the end-to-end aspects of your field operations."
         />
         <meta
           name="twitter:image"

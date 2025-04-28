@@ -30,21 +30,21 @@ const AnimationSection = () => {
   }, [isInView]);
 
   const textLines = [
-    { text: "Beyond Limits. Built for You.", type: "headline" },
+    { text: "Beyond Limits. Built for You", type: "headline" },
     { text: "" },
     {
-      text: "Whatever you’ve seen so far—put it aside. Your challenges are unique, and so is the solution we’ll build. No off-the-shelf systems, no limitations. If you can imagine it, we can make it happen.",
+      text: "Whatever you’ve seen so far—put it aside. Your challenges are unique, and so is the solution we’ll build. No off-the-shelf systems, no limitations. If you can imagine it, we can make it happen",
       type: "subheadline",
     },
     { text: "" },
-    { text: "No forms. No fluff.", type: "highlight" },
+    { text: "No forms. No fluff", type: "highlight" },
     { text: "" },
     { text: "EMAIL_LINE" },
   ];
 
   return (
     <>
-      <div ref={ref} className="relative bg-[#1E1E1E]" id="contact">
+      <div ref={ref} className="relative bg-[#1E1E1E] md:h-[95vh] h-[90vh]" id="contact">
         {isMobile && (
           <motion.div
             className="absolute inset-0 z-0"
@@ -78,7 +78,7 @@ const AnimationSection = () => {
                         >
                           hello@fieldiva.com
                         </a>
-                        , and let’s make it happen.
+                        , and let’s make it happen
                       </div>
                     );
                   }
@@ -98,7 +98,7 @@ const AnimationSection = () => {
                       >
                         hello@fieldiva.com
                       </a>
-                      , and let’s make it happen.
+                      , and let’s make it happen
                     </motion.div>
                   );
                 }

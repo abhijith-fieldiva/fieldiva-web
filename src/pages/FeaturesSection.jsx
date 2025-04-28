@@ -33,8 +33,8 @@ const industries = [
   {
     title: "Construction and Infrastructure",
     description:
-      "Workforce and equipment tracking at construction sites, daily reporting, site audits.",
-    image: "/assets/image/after-sale.jpg",
+      "Workforce and equipment tracking at construction sites, daily reporting, site audits",
+    image: "https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745385577/facility_js0r3w.jpg",
   },
   {
     title: "Telecommunications",
@@ -46,7 +46,7 @@ const industries = [
     title: "FMCG",
     description:
       "Field Sales Management, Sales Team Performance, Stock Monitoring, Target Assurance ",
-    image: "/assets/image/fmcg2.jpg",
+    image: "https://res.cloudinary.com/dvjqkwbzc/image/upload/v1745826525/iStock-942674048-1024x683_rm78fc.webp",
   },
   {
     title: "Banking",

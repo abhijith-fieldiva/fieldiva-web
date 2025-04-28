@@ -32,9 +32,9 @@ const SpotLight = () => {
   useEffect(() => {
     const isMobile = window.innerWidth < 640; // Tailwind 'sm' breakpoint
     if (isMobile) {
-      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745388609/spot-mobile_3_nmqel2.mp4");
+      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745825061/spot-mobile_4_cyffoi.mp4");
     } else {
-      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745388833/spot_lseilt.mp4");
+      setVideoSrc("https://res.cloudinary.com/dvjqkwbzc/video/upload/v1745825040/spot_1_onyogk.mp4");
     }
   }, []);
 
@@ -51,7 +51,7 @@ const SpotLight = () => {
   useEffect(() => {
     if (showSoundPrompt) {
       const timer = setTimeout(() => {
-        setShowSoundPrompt(false);
+        // setShowSoundPrompt(false);
       }, 3000); // Hide after 5 seconds
       return () => clearTimeout(timer);
     }
@@ -92,8 +92,7 @@ const SpotLight = () => {
             </span>
           </div>
           <p className="text-white text-sm sm:text-base md:text-lg font-extralight mt-3 sm:mt-4 lg:mt-1 max-w-[95%] mx-auto md:mx-0 md:max-w-[88%]">
-            Fieldiva automates and optimizes the end-to-end aspects of your
-            field operations.
+          Fieldiva is an Integrated AI Software Platform that automates and optimizes the end-to-end aspects of your field operations
           </p>
         </div>
 

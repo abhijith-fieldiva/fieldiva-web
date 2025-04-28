@@ -6,19 +6,19 @@ const FieldForceFeatures = () => {
     {
       title: "Custom Field Task Workflows",
       description:
-        "Design dynamic forms for capturing field data, including multimedia, GPS, timestamps, and structured inputs.",
+        "Design dynamic forms for capturing field data, including multimedia, GPS, timestamps, and structured inputs",
       icons: "/assets/image/custom-field.svg",
     },
     {
       title: "Smart Task Management",
       description:
-        "AI-powered task planning, scheduling, routing, and automated escalations for seamless workflow execution.",
+        "AI-powered task planning, scheduling, routing, and automated escalations for seamless workflow execution",
       icons: "/assets/image/smart-task.svg",
     },
     {
       title: "Live Tracking & Field Visibility",
       description:
-        "Real-time monitoring of field users, assets, and task progress to enhance operational efficiency.",
+        "Real-time monitoring of field users, assets, and task progress to enhance operational efficiency",
       icons: "/assets/image/live-track.svg",
     },
     {
@@ -30,55 +30,55 @@ const FieldForceFeatures = () => {
     {
       title: "Attendance & Compliance",
       description:
-        "Automated shift tracking, GPS validations, AI face recognition, and regulatory adherence.",
+        "Automated shift tracking, GPS validations, AI face recognition, and regulatory adherence",
       icons: "/assets/image/attendance.svg",
     },
     {
       title: "Stock & Asset Management",
       description:
-        "Track inventory, field assets, consumables, and vehicle utilization in real time.",
+        "Track inventory, field assets, consumables, and vehicle utilization in real time",
       icons: "/assets/image/stock-asset.svg",
     },
     {
       title: "Fleet, Route & Warehouse Coordination",
       description:
-        "AI-driven route planning, live fleet monitoring, fuel efficiency management, and seamless warehouse coordination to optimize inventory movement and field resource deployment.",
+        "AI-driven route planning, live fleet monitoring, fuel efficiency management, and seamless warehouse coordination to optimize inventory movement and field resource deployment",
       icons: "/assets/image/fleet.svg",
     },
     {
       title: "SLA, Approvals & Documentation",
       description:
-        "Automated SLA tracking, contract approvals, digital signatures, and regulatory documentation management.",
+        "Automated SLA tracking, contract approvals, digital signatures, and regulatory documentation management",
       icons: "/assets/image/sla.svg",
     },
     {
       title: "Customer Engagement & Portals",
       description:
-        "Self-service portals, appointment scheduling, feedback collection, and CRM integration.",
+        "Self-service portals, appointment scheduling, feedback collection, and CRM integration",
       icons: "/assets/image/customer-engagement.svg",
     },
     {
       title: "AI, OCR & Data Processing",
       description:
-        "AI-powered document validation, vision-based inspections, and automated data extraction.",
+        "AI-powered document validation, vision-based inspections, and automated data extraction",
       icons: "/assets/image/air-acr.svg",
     },
     {
       title: "Field Sales Management",
       description:
-        "Sales punch systems, real-time cash collection tracking, target assurance, stock usage monitoring, and automated sales performance reporting.",
+        "Sales punch systems, real-time cash collection tracking, target assurance, stock usage monitoring, and automated sales performance reporting",
       icons: "/assets/image/field-sale.svg",
     },
     {
       title: "Call Center Management",
       description:
-        "Streamline call center operations with structured call projects, task assignments, and future action tracking. Enhance customer interactions through efficient call handling, follow-ups, and integrated insights for better engagement and service quality.",
+        "Streamline call center operations with structured call projects, task assignments, and future action tracking. Enhance customer interactions through efficient call handling, follow-ups, and integrated insights for better engagement and service quality",
       icons: "/assets/image/call-center.svg",
     },
     {
       title: "Custom ERP & System Integrations",
       description:
-        "Seamlessly integrate with your existing ERP, other databases and third-party applications to unify business operations.",
+        "Seamlessly integrate with your existing ERP, other databases and third-party applications to unify business operations",
       icons: "/assets/image/custom-erp.svg",
     },
     {
